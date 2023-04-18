@@ -3,3 +3,8 @@ html {
     background-color: aqua;
     color: darkmagenta;
 }
+
+.footballer img {
+    max-width: 500px;
+    height: auto;
+}
