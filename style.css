@@ -12,3 +12,7 @@ html {
 .footballer img {
     max-width: 100%;
 }
+
+section.footballer {
+    display: inline-block;
+}
