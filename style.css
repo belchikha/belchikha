@@ -8,3 +8,7 @@ html {
     box-sizing: border-box;
     max-width: 500px;
 }
+
+.footballer img {
+    max-width: 100%;
+}
